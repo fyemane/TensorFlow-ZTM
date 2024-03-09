@@ -17,7 +17,7 @@ Gallery:
 
 <img width="1008" alt="image" src="https://github.com/fyemane/TensorFlow-ZTM-/assets/93152842/6ce84048-96bc-4ae5-9d80-91071bf5d592">
 
-**Using a customn pre-trained EfficientNet model with feature extraction and fine-tuning to predict test images of tasty food**
+**Using a custom pre-trained EfficientNet model with feature extraction and fine-tuning to predict test images of tasty food**
 
 ![image](https://github.com/fyemane/TensorFlow-ZTM-/assets/93152842/d8a96688-e395-4135-91bc-ac4edaf8bb30)
 
