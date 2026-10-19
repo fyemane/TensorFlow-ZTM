@@ -1,5 +1,8 @@
 # TensorFlow-ZTM
 
+[Project portfolio](https://fyemane.github.io/projects.html) · [About me, experience & qualifications](https://fyemane.github.io/)
+
+
 My notebooks and projects from Zero to Mastery's TensorFlow Developer Certificate course, which I completed in 2023. I used TensorFlow and Keras to explore regression, classification, computer vision, transfer learning, natural language processing, and time-series forecasting.
 
 This repository follows my progress through the course: starting with tensors and simple models, then working through pretrained image models, multi-input NLP architectures, and forecasting experiments. The notebooks include course-guided implementations, my notes, experiments, and saved outputs.
